@@ -1,8 +1,8 @@
 /* Base Styles */
 :root {
     --red: #4ebea2;
-    --black: #fff;
-    --white: #1E1F1F;
+    --black: #000000;
+    --white: #FFFFFF;
     --light-gray: #F4F6F9;
     --medium-gray: #F1F1F1;
     --dark-gray: #CCCCCC;
@@ -218,7 +218,7 @@ ul {
 .project-number {
     font-size: 5rem;
     font-weight: 700;
-    color: var(--white);
+    color: var(--black);
 }
 
 .project-title {
